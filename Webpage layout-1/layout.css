@@ -1,0 +1,29 @@
+/* layout 1 */
+
+.cent{
+    display: grid;
+    place-items: center;
+}
+.siz{
+    font-size: 1.5rem;
+}
+.bg-navimg{
+    background-image: url("https://c.stocksy.com/a/UT5500/z9/1212688.jpg");
+    background-size: cover;
+}
+.bg-trans{
+    background-color: transparent !important;
+}
+.bord{
+    border-radius: 5px;
+}
+.nonline{
+    outline: none;
+    border: none;
+    background-color: transparent;
+}
+@media screen and (max-width:674px) {
+    .siz{
+        font-size:1rem;
+    }    
+}
