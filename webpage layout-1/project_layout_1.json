@@ -1,0 +1,62 @@
+[
+    {
+        "img":"https://www.cheatsheet.com/wp-content/uploads/2021/07/Vin-Diesel-1.jpg",
+        "name":"Akshay",
+        "position":"UI Designer"
+    },
+    {
+        "img":"https://m0.her.ie/wp-content/uploads/2018/01/07093633/GettyImages-887815620.jpg",
+        "name":"Ram",
+        "position":"UX Designer"
+    },
+    {
+        "img":"https://i0.wp.com/buddymantra.com/wp-content/uploads/2020/10/image19.jpeg",
+        "name":"Janani",
+        "position":"UI/UX Designer"
+    },
+    {
+        "img":"https://asset.kompas.com/crops/qJS3yBtBe_lJxVjIY5y8tRm3_H4=/0x0:990x660/750x500/data/photo/2018/07/27/1486360210.jpg",
+        "name":"Kishore",
+        "position":"UX Designer"
+    },
+    {
+        "img":"https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2014/02/GettyImages-631430762.jpg",
+        "name":"Kumar",
+        "position":"UI Designer"
+    },
+    {
+        "img":"https://image-cdn.essentiallysports.com/wp-content/uploads/GettyImages-1351227521.jpg",
+        "name":"Ajay",
+        "position":"UX Designer"
+    },
+    {
+        "img":"https://www.re-thinkingthefuture.com/wp-content/uploads/2021/12/A5986-Hermione-Granger-as-an-Architect.jpg",
+        "name":"Anupriya",
+        "position":"UI/UX Designer"
+    },
+    {
+        "img":"https://superstarsbio.com/wp-content/uploads/2019/04/Paul-Walker-Fast-7.jpg",
+        "name":"Srikanth",
+        "position":"UX Designer"
+    },
+    {
+        "img":"https://cdn.britannica.com/97/194197-050-5BD88874/Vin-Diesel-The-Fast-and-the-Furious.jpg",
+        "name":"Kumar",
+        "position":"UI Designer"
+    },
+    {
+        "img":"https://www.dmarge.com/wp-content/uploads/2021/01/dwayne-the-rock-.jpg",
+        "name":"Ajay",
+        "position":"UX Designer"
+    },
+    {
+        "img":"https://www.popoptiq.com/wp-content/uploads/2014/10/hermione.jpg",
+        "name":"Anupriya",
+        "position":"UI/UX Designer"
+    },
+    {
+        "img":"https://variety.com/wp-content/uploads/2013/12/paul-walker-fast-and-furious-63.jpg",
+        "name":"Srikanth",
+        "position":"UX Designer"
+    }
+]
